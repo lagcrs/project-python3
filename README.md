@@ -1,2 +1,13 @@
-# project-python3
-Jogo simples baseado em texto. Feito para o estudo de condições, funções e arquivos em Python3.
+Projeto 1º Semestre ADS
+===================
+
+Jogo simples baseado em texto feito em **Python 3**. 
+
+
+----------
+
+####Feito para o estudo de: 
+
+- **Estrturas Condicionais**. 
+- **Criação e Uso de Funções**.
+- **Salvamento em Arquivos**.
